@@ -1,4 +1,4 @@
 # DIO-DESAFIO-GITHUB__TESTE01
 TESTANDO DESAFIO DE PROJETO 
-# LINK UTEIS
-## {PERFIL DO GITHUB} (https://github.com/Tatiana-Ayres)
+# LINKS ÚTEIS
+## [PERFIL DO GITHUB] (https://github.com/Tatiana-Ayres)
